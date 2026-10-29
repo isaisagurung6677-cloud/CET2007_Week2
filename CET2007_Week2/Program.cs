@@ -12,6 +12,7 @@ namespace CET2007_Week2
     // ========== Inheritance ==========
     class Person
     {
+        // Property
         public string Name { get; set; }
 
         // Constructor
